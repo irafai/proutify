@@ -1,75 +1,75 @@
 // vim:set sw=2 ts=2 sts=2 expandtab:
 const replace = [
   {
-    "name": "Darmanin",
+    "name": "Darmaprout",
     "replaceWith": "Darmaprout"
   },
   {
-    "name": "Bruno Le Maire|Bruno Lemaire",
+    "name": "Bruno Le Prout|Bruno Lemaire",
     "replaceWith": "Bruno Le Prout"
   },
   {
-    "name": "Jean Castex",
+    "name": "Jean Proutex",
     "replaceWith": "Jean Proutex"
   },
   {
-    "name": "Macron|Emmanuel Macron",
+    "name": "Emmanuel Maprout|Emmanuel Macron",
     "replaceWith": "Emmanuel Maprout"
   },
   {
-    "name": "Barbara Pompili",
+    "name": "Barbara Proutili",
     "replaceWith": "Barbara Proutili"
   },
   {
-    "name": "Jean-Michel Blanquer",
+    "name": "Jean-Michel Blanc-Prout",
     "replaceWith": "Jean-Michel Blanc-Prout"
   },
   {
-    "name": "Marlène Schiappa",
+    "name": "Marlène Schiaprout",
     "replaceWith": "Marlène Schiaprout"
   },
   {
-    "name": "Élisabeth Borne|Elisabeth Borne",
+    "name": "Élizabeth Prout|Elisabeth Borne",
     "replaceWith": "Élizabeth Prout"
   },
   {
-    "name": "Éric Dupond-Moretti",
+    "name": "Éric Duprout-Moretti",
     "replaceWith": "Éric Duprout-Moretti"
   },
   {
-    "name": "Gabriel Attal",
+    "name": "Gabriel Prouttal",
     "replaceWith": "Gabriel Prouttal",
   },
   {
-    "name": "Jean-Yves Le Drian|Jean Yves Le Drian|Jean-Yves le Drian",
+    "name": "Jean-Prout Le Drian|Jean Yves Le Drian|Jean-Yves le Drian",
     "replaceWith": "Jean-Prout Le Drian"
   },
   {
-    "name": "Agnès Pannier-Runacher",
+    "name": "Agnès Proutier-Runacher",
     "replaceWith": "Agnès Proutier-Runacher"
   },
   {
-    "name": "Cédric O|Cedric O",
+    "name": "Cédric prOut|Cedric O",
     "replaceWith": "Cédric prOut"
   },
   {
-    "name": "Florence Parly",
+    "name": "Florence Proutly",
     "replaceWith": "Florence Proutly"
   },
   {
-    "name": "Roselyne Bachelot",
+    "name": "Proutelyne Bachelot",
     "replaceWith": "Proutelyne Bachelot"
   },
   {
-    "name": "Olivier Véran",
+    "name": "Proutivier Véran",
     "replaceWith": "Proutivier Véran"
   },
   {
-    "name": "Frédérique Vidal|Frederique Vidal",
+    "name": "Frédérique Proutal|Frederique Vidal",
     "replaceWith": "Frédérique Proutal"
   },
   {
-    "name": "Amélie de Montchalin|Amélie De Montchalin",
+    "name": "Amélie de Proutalin|Amélie De Montchalin",
     "replaceWith": "Amélie de Proutalin"
   },
     {
@@ -97,11 +97,11 @@ const replace = [
     "replaceWith": "Geneviève Duproutsecq"
   },
   {
-    "name": "Sébastion Lecornu",
+    "name": "Sébastien Lecornu",
     "replaceWith": "Sébastien Leproutu"
   },
   {
-    "name": "ministre",
+    "name": "Miniprout",
     "replaceWith": "miniprout"
   },
   {
